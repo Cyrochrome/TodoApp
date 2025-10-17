@@ -1,0 +1,2 @@
+e5ec1ad02a59c74ee629912bd1583ad82e0a88f4 124925768 next-swc.linux-x64-gnu.node
+0fff14d98fdf9223dd690a9c6454b190a4bc2922 2272024 resolver.linux-x64-gnu.node
